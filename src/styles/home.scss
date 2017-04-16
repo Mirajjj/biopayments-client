@@ -1,6 +1,43 @@
-.ui.inverted.segment.landing-img {
-	background: url(../assets/new_york_2.jpg) no-repeat;
-	background-position: 0% 50%; 
-	background-size: 100%;
-	padding: 15% 0;
+.ui.inverted.segment.landing-background {
+	background: url(../assets/skyscrapers.jpeg) no-repeat;
+	background-position: 50% 100%;
+  background-size: 100% 139%;
+  padding: 200px 0;
+  margin-bottom: 80px;
 }
+
+.ui.text.container {
+  max-width: 800px !important;
+}
+
+.ui.grid.heading-grid {
+  h1, h2 {
+    color: #fff;
+  }
+
+  h1 {
+    margin-top: -60px;
+    font-family: "Open Sans";
+    font-size: 60px;
+    letter-spacing: 1px;
+    font-weight: 800;
+    text-shadow: 2px 2px 3px black;
+  }
+
+  h2 {
+    font-family: "Open Sans";
+    letter-spacing: 1px;
+    font-style: italic;
+    text-shadow: 2px 2px 3px black;
+    font-size: 25px;
+  }
+}
+
+#general-description, #articles {
+  padding-bottom: 80px;
+}
+
+ #quotes {
+  margin-bottom: 80px;
+ }
+
