@@ -1,0 +1,21 @@
+.main-nav {
+	position: absolute;
+	top:0;
+	width: 100%;
+
+	.ui.secondary.pointing.menu {
+		display: inline-block;
+		width: 100%;
+		text-align: center;
+		border: none;
+		border-bottom: none;
+		background: rgba(0,0,0,0.7);
+
+		 a.item {
+		 	font-size: 18px;
+		 	letter-spacing: 1px;
+			display: inline-block;
+		}
+	}
+}
+

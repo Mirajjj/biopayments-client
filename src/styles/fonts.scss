@@ -1,0 +1,94 @@
+@font-face {
+	font-family: "Open Sans";
+	src: url(../assets/fonts/openSans/OpenSans-Light.ttf);
+	font-style: normal;
+	font-weight: 300;	
+}
+
+@font-face {
+    font-family: "Open Sans";
+    src: url(../assets/fonts/openSans/OpenSans-LightItalic.ttf);
+    font-style: italic;
+    font-weight: 300;
+}
+
+@font-face {
+	font-family: "Open Sans";
+	src: url(../assets/fonts/openSans/OpenSans-Regular.ttf);
+	font-style: normal;
+	font-weight: normal;	
+}
+
+@font-face {
+	font-family: "Open Sans";
+	src: url(../assets/fonts/openSans/OpenSans-Italic.ttf);
+	font-style: italic;
+	font-weight: normal;	
+}
+
+@font-face {
+	font-family: "Open Sans";
+	src: url(../assets/fonts/openSans/OpenSans-Semibold.ttf);
+	font-style: normal;
+	font-weight: 600;	
+}
+
+@font-face {
+	font-family: "Open Sans";
+	src: url(../assets/fonts/openSans/OpenSans-SemiboldItalic.ttf);
+	font-style: italic;
+	font-weight: 600;	
+}
+
+@font-face {
+	font-family: "Open Sans";
+	src: url(../assets/fonts/openSans/OpenSans-Bold.ttf);
+	font-style: normal;
+	font-weight: 700;	
+}
+
+@font-face {
+	font-family: "Open Sans";
+	src: url(../assets/fonts/openSans/OpenSans-BoldItalic.ttf);
+	font-style: italic;
+	font-weight: 700;	
+}
+
+@font-face {
+	font-family: "Open Sans";
+	src: url(../assets/fonts/openSans/OpenSans-ExtraBold.ttf);
+	font-style: normal;
+	font-weight: 800;	
+}
+
+@font-face {
+	font-family: "Open Sans";
+	src: url(../assets/fonts/openSans/OpenSans-ExtraBoldItalic.ttf);
+	font-style: italic;
+	font-weight: 800;	
+}
+
+@font-face {
+	font-family: "Libre Baskerville";
+	src: url(../assets/fonts/libreBaskerville/LibreBaskerville-Regular.otf);
+	font-style: normal;
+	font-weight: normal;	
+}
+
+@font-face {
+	font-family: "Libre Baskerville";
+	src: url(../assets/fonts/libreBaskerville/LibreBaskerville-Italic.otf);
+	font-style: italic;
+	font-weight: normal;	
+}
+
+@font-face {
+	font-family: "Libre Baskerville";
+	src: url(../assets/fonts/libreBaskerville/LibreBaskerville-Bold.otf);
+	font-style: normal;
+	font-weight: bold;	
+}
+
+html, body, #app, .ui.menu {
+	font-family: "Open Sans"
+}
