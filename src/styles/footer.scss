@@ -1,0 +1,11 @@
+.ui.footer {
+  .grid.heading-grid {
+    & > row {
+      margin-top: 5px;
+    }
+
+    h2 {
+      font-style: normal;
+    }
+  }
+}
