@@ -9,10 +9,11 @@ Vue.component('navigation', Navigation)
 Vue.use(Router)
 
 export default new Router({
+  linkActiveClass: 'active',
   routes: [
     {
       path: '/',
-      name: 'home',
+      name: '/',
       component: Home
     },
     {
