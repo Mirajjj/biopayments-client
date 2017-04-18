@@ -2,6 +2,7 @@ import Vue from 'vue'
 import Router from 'vue-router'
 import Home from '@/pages/home/unit'
 import AboutUs from '@/pages/about/unit'
+import Partnership from '@/pages/partnership/unit'
 
 import Navigation from '@/components/navigation/unit'
 import Footer from '@/components/bottom/unit'
@@ -23,6 +24,11 @@ export default new Router({
       path: '/about',
       name: 'about',
       component: AboutUs
+    },
+    {
+      path: '/partnership',
+      name: 'partnership',
+      component: Partnership
     }
   ]
 })
