@@ -13,3 +13,7 @@ new Vue({
   template: '<App/>',
   components: { App }
 })
+
+import Navigation from '@/components/navigation/unit'
+
+Vue.component('navigation', Navigation)
