@@ -2,9 +2,12 @@ import Vue from 'vue'
 import Router from 'vue-router'
 import Home from '@/pages/home/unit'
 import AboutUs from '@/pages/about/unit'
+
 import Navigation from '@/components/navigation/unit'
+import Footer from '@/components/bottom/unit'
 
 Vue.component('navigation', Navigation)
+Vue.component('bottom', Footer)
 
 Vue.use(Router)
 

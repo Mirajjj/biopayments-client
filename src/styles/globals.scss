@@ -1,5 +1,29 @@
+html, body, #app {
+  height: 100%;
+  box-sizing: border-box;
+}
+
+body {
+  position: relative;
+  font-family: "Open Sans";
+  min-height: 100%;
+  height: auto;
+}
+
 h1, h2, h3, h4, h5, p {
   font-family: "Open Sans";
+}
+
+h1 {
+  font-size: 60px;
+  letter-spacing: 1px;
+  font-weight: 800;
+}
+
+h2 {
+  font-size: 40px;
+  letter-spacing: 1px;
+  font-weight: 800;
 }
 
 h3 {
@@ -8,6 +32,15 @@ h3 {
 
 p {
   font-size: 18px;
+}
+
+#home-page {
+  padding-bottom: 220px; 
+}
+
+.main:not(#home-page) {
+  padding-top: 130px;
+  padding-bottom: 220px; 
 }
 
 .margin-bot-1 {
