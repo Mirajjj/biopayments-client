@@ -1,7 +1,7 @@
 {
-  "name": "my-project",
+  "name": "bio-payments",
   "version": "1.0.0",
-  "description": "A Vue.js project",
+  "description": "Bio Payments - building biometric payment solutions",
   "author": "Herman Leus",
   "private": true,
   "scripts": {

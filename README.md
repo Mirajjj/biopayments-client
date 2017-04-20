@@ -1,4 +1,4 @@
-# my-project
+# Bio Paynebts Client
 
 > A Vue.js project
 
