@@ -1,4 +1,4 @@
-# Bio Paynebts Client
+# Bio Payments Client
 
 > A Vue.js project
 
